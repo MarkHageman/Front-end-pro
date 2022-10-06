@@ -1,2 +1,2 @@
 # Front-end-pro
-# távoli repo javitás
+# távoli repo javitáss
