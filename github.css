@@ -3,3 +3,13 @@ body{
     background-color: aqua;
     background-size: 1000px;
 }
+
+h1{
+    margin: auto;
+    background-image: url(../../../Desktop/tanfolyam/hazifeladat/hazi02/paprika/szines.jpg);
+}
+
+#id{
+    background-size: 200px;
+    float: left;
+}
